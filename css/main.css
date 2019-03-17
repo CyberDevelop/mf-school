@@ -37,7 +37,7 @@ div.nav {
     margin: 0 auto;
 }
 
-div.logo {
+a.logo {
     width: 20%;
     font-size: 30px;
     text-transform: uppercase;
@@ -45,8 +45,8 @@ div.logo {
     transition: .2s;
 }
 
-div.logo:hover {
-    color: darkgreen;
+a.logo:hover {
+    color: #c5c8cc;
 }
 
 ul {
@@ -66,7 +66,7 @@ ul li a {
 }
 
 ul li a:hover {
-    color: green;
+    color: #c5c8cc;
 }
 
 
