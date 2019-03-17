@@ -57,7 +57,7 @@ ul {
 }
 
 ul li a {
-    text-decoration: none;
+    text-decoration: none !important;
     padding: 0 10px;
     margin-right: 80px;
     color: aliceblue;
