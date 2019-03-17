@@ -1,2 +1,1 @@
-# YYYY
-# mf-school
+hello, Igor Gawrys, nice to meet you
