@@ -6,6 +6,7 @@
 
 body {
     font-family: 'Raleway', sans-serif;
+
 }
 
 nav {
@@ -15,7 +16,7 @@ nav {
     top: 0;
     left: 0;
     height: 80px;
-    transition: .1s;
+    transition: .2s;
     color: aliceblue;
 }
 
@@ -78,4 +79,15 @@ ul li a:hover {
     background-repeat: no-repeat;
     background-attachment: fixed;
     z-index: -1;
+}
+
+.socialteam-advantages {
+    height: 50vh;
+    background-color: #1a1a1a;
+}
+
+.section-text {
+    padding-top: 10rem;
+    color: aliceblue;
+    font-style:
 }
